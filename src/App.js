@@ -35,6 +35,7 @@ function App() {
   
 
   //handle a choice
+  //testing
   
   const handleChoice = (card) => {
     if(card.id === choiceOne?.id) return;
